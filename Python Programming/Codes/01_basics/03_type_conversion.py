@@ -2,7 +2,7 @@
 Topic: Type Conversion & Casting
 Section: 01 - Basics
 Difficulty: Beginner
-Author: Messi Zia
+Author: Ismail Zia
 
 Description:
     Implicit and explicit type conversions, type checking with
