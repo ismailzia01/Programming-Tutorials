@@ -2,7 +2,7 @@
 Topic: Goal Assist — Your First Python Program
 Section: 01 - Basics
 Difficulty: Beginner
-Author: Messi Zia
+Author: Ismail Zia
 
 Description:
     Your very first step into Python! This file covers what Python is,

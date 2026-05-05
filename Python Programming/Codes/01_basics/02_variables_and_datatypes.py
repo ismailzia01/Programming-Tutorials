@@ -2,7 +2,7 @@
 Topic: Variables & Data Types
 Section: 01 - Basics
 Difficulty: Beginner
-Author: Messi Zia
+Author: Ismail Zia
 
 Description:
     Everything about Python variables — how to create them, naming rules,
