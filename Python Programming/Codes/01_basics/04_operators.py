@@ -2,7 +2,7 @@
 Topic: Operators in Python — Complete Guide
 Section: 01 - Basics
 Difficulty: Beginner
-Author: Ismail Zia
+Author: Ismail Zia 
 
 Description:
     Every operator in Python — arithmetic, comparison, logical, assignment,
